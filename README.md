@@ -8,3 +8,6 @@ LEDs are SK9822-ec20. You need to cut a bit of plastic off the switches case but
 Side note: I actually havent ordered PCBs for this but i have test fitted it with a 3d printed one and it seems to work fine.
 
 ![choc mini pcb](https://raw.githubusercontent.com/Crafty-The-Fox/GH-Mechfret-Kailh-Choc-mini/main/choc%20mini%20pcb.png)
+
+
+Version 2 is now available, featuring support for both Choc V1/V2's, with SK9822-EC20 Suport.
