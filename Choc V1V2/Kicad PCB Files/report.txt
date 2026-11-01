@@ -1,0 +1,3 @@
+Placement file: 'H:\GH-Mechfret-Kailh-Choc-mini-main\GH-Mechfret-Kailh-Choc-mini-main\KiCad PCB Files\fretv2\fret clone-all-pos.csv'.
+Info: Component count: 13.
+Info: Done.

@@ -1,0 +1,19 @@
+### Footprint positions - created on 2026-11-01T03:13:47 ###
+### Printed by KiCad version 10.0.7
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val             Package                               PosX       PosY       Rot  Side
+CH1       choc_SW_solder  SW_Kailh_Choc_V1V2                 93.5000    13.0000   90.0000  top
+CH2       choc_SW_solder  SW_Kailh_Choc_V1V2                 69.5000    13.0000   90.0000  top
+CH3       choc_SW_solder  SW_Kailh_Choc_V1V2                 45.5000    13.0000   90.0000  top
+CH4       choc_SW_solder  SW_Kailh_Choc_V1V2                 21.5000    13.0000   90.0000  top
+CH5       choc_SW_solder  SW_Kailh_Choc_V1V2                117.5000    13.0000   90.0000  top
+J1        Conn_01x03_Pin  PinHeader_1x03_P2.54mm_Vertical   135.6300     2.3100  180.0000  top
+J2        Conn_01x03_Pin  PinHeader_1x03_P2.54mm_Vertical   136.1100    18.9100  180.0000  top
+J3        Conn_01x04_Pin  PinHeader_1x04_P2.54mm_Vertical   127.7000     9.9250    0.0000  top
+LED1      ~               SK9822-EC20                       122.0750    13.0000   90.0000  top
+LED2      ~               SK9822-EC20                        98.0750    13.0000   90.0000  top
+LED3      ~               SK9822-EC20                        74.0750    13.0000   90.0000  top
+LED4      ~               SK9822-EC20                        50.0750    13.0000   90.0000  top
+LED5      ~               SK9822-EC20                        26.0750    13.0000   90.0000  top
+## End
