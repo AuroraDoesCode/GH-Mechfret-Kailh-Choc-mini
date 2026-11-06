@@ -1,7 +1,7 @@
 # GH-Mechfret-Kailh-Choc-mini with LEDs!!!
 Custom drop-in replacement for the fret PCB for Guitar Hero controllers using Kailh Choc Mini switches. Please check the license before use.
 
-This should fit all guitars, I hope? You need a washer probably for some guitars.
+This should fit all guitars, except the WoR guitar. A separate board will be released for this guitar, supporting Choc V1's.
 
 LEDs are SK9822-ec20. Choc Mini Variants require you to trim a small amount of plastic where the LED sits below the button. Its not awful to do, it takes two snips. Just be careful to not cut the sidewall of the button, or the LED will bleed to the next one.
 
